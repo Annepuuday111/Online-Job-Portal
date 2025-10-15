@@ -1,4 +1,4 @@
-# 🌐 College Online Job Portal
+# 🌐  Online Job Portal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
@@ -21,7 +21,7 @@
 <tr>
 <td width="70%" valign="top">
 
-The **College Online Job Portal** is a modern web application built with **Django**, **PostgreSQL**, **HTML**, and **CSS**.  
+The ** Online Job Portal** is a modern web application built with **Django**, **PostgreSQL**, **HTML**, and **CSS**.  
 It serves as a centralized platform for **students**, **companies**, and **admins** to manage job applications efficiently.  
 
 > 💡 *"Connecting talented students with leading companies seamlessly"*  
@@ -32,9 +32,6 @@ It serves as a centralized platform for **students**, **companies**, and **admin
 - 🎯 Real-time notifications for selection/rejection  
 - 🛡️ Secure registration and role-based access  
 
-</td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="250px" alt="Job portal animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,123,255,0.4);"/>
 </td>
 </tr>
 </table>
@@ -56,9 +53,6 @@ It serves as a centralized platform for **students**, **companies**, and **admin
 | **🔒 Role-Based Access** | Secure login for Admin, Company, and Student roles |
 
 </td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="250px" alt="Features animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,123,255,0.4);"/>
-</td>
 </tr>
 </table>
 
@@ -78,9 +72,6 @@ It serves as a centralized platform for **students**, **companies**, and **admin
 | 🌐 **Bootstrap** | Optional CSS framework for responsive and modern components |
 
 </td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="250px" alt="Tech stack animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,123,255,0.4);"/>
-</td>
 </tr>
 </table>
 
@@ -98,9 +89,6 @@ It serves as a centralized platform for **students**, **companies**, and **admin
 - Manage student applications  
 
 </td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/l2Je7HsZopw3a7jAA/giphy.gif" width="250px" alt="Admin dashboard animation" style="border-radius:15px; box-shadow:0 0 15px rgba(255,123,0,0.4);"/>
-</td>
 </tr>
 </table>
 
@@ -114,9 +102,6 @@ It serves as a centralized platform for **students**, **companies**, and **admin
 - Shortlist candidates and send messages  
 
 </td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="250px" alt="Company dashboard animation" style="border-radius:15px; box-shadow:0 0 15px rgba(255,0,123,0.4);"/>
-</td>
 </tr>
 </table>
 
@@ -129,9 +114,6 @@ It serves as a centralized platform for **students**, **companies**, and **admin
 - Apply to jobs and track application status  
 - Receive notifications from companies  
 
-</td>
-<td width="30%" align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px" alt="Student dashboard animation" style="border-radius:15px; box-shadow:0 0 15px rgba(0,255,123,0.4);"/>
 </td>
 </tr>
 </table>
